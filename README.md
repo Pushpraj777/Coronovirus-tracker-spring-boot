@@ -9,3 +9,5 @@ Follow the official guide “Setting up the development environment” to set up
 <p class="has-line-data" data-line-start="9" data-line-end="10">Install Spring tools Suite:</p>
 <p class="has-line-data" data-line-start="9" data-line-end="10">Create Spring starter project by the IDE or with springInilzer</p>
 
+<p class="has-line-data" data-line-start="0" data-line-end="2">Below mentioned is the csv(updated regularly) from where data is being fetched into our springboot application.<br>
+<a href="https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv">https://github.com/CSSEGISandData/COVID-19/blob/master/csse_covid_19_data/csse_covid_19_time_series/time_series_19-covid-Confirmed.csv</a></p>
